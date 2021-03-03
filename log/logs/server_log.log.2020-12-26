@@ -1,0 +1,39 @@
+2020-12-25 21:23:21,694        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-25 21:24:25,010        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-25 21:30:34,956        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-25 21:35:42,959        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-25 21:35:47,145        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608921347.1303082, 'user': {'account_name': 'Guest'}}
+2020-12-25 21:35:47,145        INFO       server               Ответ клиенту Guest : 200
+2020-12-25 21:35:47,161        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608921347.1303082, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-25 21:36:25,902        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608921385.8868582, 'user': {'account_name': 'Guest'}}
+2020-12-25 21:36:25,902        INFO       server               Ответ клиенту Guest : 200
+2020-12-25 21:36:25,902        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608921385.8868582, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-25 21:36:25,902        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608921385.8868582, 'user': {'account_name': 'Guest'}}
+2020-12-25 21:36:25,902        INFO       server               Ответ клиенту Guest : 200
+2020-12-25 21:36:25,902        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608921385.8868582, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-25 21:37:26,516        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608921446.5025642, 'user': {'account_name': 'Guest'}}
+2020-12-25 21:37:26,516        INFO       server               Ответ клиенту Guest : 200
+2020-12-25 21:37:26,517        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608921446.5025642, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-25 21:37:26,517        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608921446.5035617, 'user': {'account_name': 'Guest'}}
+2020-12-25 21:37:26,517        INFO       server               Ответ клиенту Guest : 200
+2020-12-25 21:37:26,518        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608921446.5035617, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 12:45:45,706        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-26 12:45:45,724        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608975945.707761, 'user': {'account_name': 'Guest'}}
+2020-12-26 12:45:45,724        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 12:45:45,737        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608975945.707761, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 12:45:45,738        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608975945.709755, 'user': {'account_name': 'Guest'}}
+2020-12-26 12:45:45,738        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 12:45:45,738        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608975945.709755, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 12:45:45,739        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608975945.7107527, 'user': {'account_name': 'Guest'}}
+2020-12-26 12:45:45,739        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 12:45:45,739        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608975945.7107527, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 12:45:45,739        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608975945.71175, 'user': {'account_name': 'Guest'}}
+2020-12-26 12:45:45,740        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 12:45:45,740        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608975945.71175, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 12:45:45,741        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608975945.7167387, 'user': {'account_name': 'Guest'}}
+2020-12-26 12:45:45,741        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 12:45:45,741        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608975945.7167387, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
+2020-12-26 13:13:20,498        INFO       server               сервер запущен с параметрами: 127.0.0.1:5554
+2020-12-26 13:13:24,706        DEBUG      server               Сообщение от клиента {'action': 'presence', 'time': 1608977604.70601, 'user': {'account_name': 'Guest'}}
+2020-12-26 13:13:24,706        INFO       server               Ответ клиенту Guest : 200
+2020-12-26 13:13:24,718        DEBUG      server               Вызвана функция process_client_message c аргументами ({'action': 'presence', 'time': 1608977604.70601, 'user': {'account_name': 'Guest'}},), {}. Ее вызов произошел из функции main
